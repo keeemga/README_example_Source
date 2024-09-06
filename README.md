@@ -1,3 +1,30 @@
+
+# Test 모델을 이용한 Test 도출
+
+- GIThub Url:
+- requiremenet: 플라스크, CNN
+1. 수행기관: 알파코 딥러킹 부트캠프 (역할: Method 튜닝, 전처리, 트러블 슈팅, ppt제작)
+2. 데이터: MNIST(0~9 숫자이미지) train 6만장, test 3만장
+3. 참고: Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012)
+4. 수행 결과 및 느낀점: 결과 이미지 output.jpg, 전체 설계도 architecture.jpg로 제작. CNN으로는 0~9 이미지의 학습 성능이 잘 나왔지만, transform을 어떻게 주냐에 따라 성능을 감소시키는 기법이 무엇인지 리포트 하고 싶었음.
+- output.jpg
+
+
+![output](https://github.com/user-attachments/assets/74d0fd17-5250-4326-b796-e91064a094ce)
+- architecture.jpg
+
+
+![architecture](https://github.com/user-attachments/assets/ce4c7517-d0ca-4231-bbca-8f58d7692c39)
+
+
+
+
+---
+
+
+
+
+
 1.수평선 (구분선, 수평선을 만들려면 - or * or _을 3개를 입력)
 
 ![1](https://github.com/user-attachments/assets/dc67d9c2-d4d9-4108-b96e-4a14c2672e23)
