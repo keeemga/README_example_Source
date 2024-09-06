@@ -1,7 +1,7 @@
 
 # Test 모델을 이용한 Test 도출
 
-- GIThub Url:
+- GIThub Url: https://github.com/keeemga
 - requiremenet: 플라스크, CNN
 1. 수행기관: 알파코 딥러킹 부트캠프 (역할: Method 튜닝, 전처리, 트러블 슈팅, ppt제작)
 2. 데이터: MNIST(0~9 숫자이미지) train 6만장, test 3만장
